@@ -1,0 +1,44 @@
+{
+  "Data": [
+    {
+      "name": "gaurav",
+      "age": "21",
+      "address": "617",
+      "department": "Cse",
+      "salary": "300000",
+      "marital": "single",
+      "gaurav": "video1809753017.mp4",
+      "id": 1
+    },
+    {
+      "name": "gaurav",
+      "age": "21",
+      "address": "fgfgg",
+      "department": "ggggg",
+      "salary": "300000",
+      "marital": "unmarried",
+      "gaurav": "video1809753017.mp4",
+      "id": 2
+    },
+    {
+      "name": "gaurav",
+      "age": "21",
+      "address": "fgfgg",
+      "department": "ggggg",
+      "salary": "300000",
+      "marital": "unmarried",
+      "gaurav": "video1809753017.mp4",
+      "id": 3
+    },
+    {
+      "name": "gaurav",
+      "age": "21",
+      "address": "fgfgg",
+      "department": "ggggg",
+      "salary": "300000",
+      "marital": "unmarried",
+      "gaurav": "video1809753017.mp4",
+      "id": 4
+    }
+  ]
+}
